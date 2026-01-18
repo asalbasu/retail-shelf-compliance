@@ -1,4 +1,4 @@
-x
+
 # Retail Shelf Compliance (GroundingDINO OVD)
 
 This project performs retail shelf compliance checking using Open-Vocabulary Detection (OVD) with GroundingDINO.
