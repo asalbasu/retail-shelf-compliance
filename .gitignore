@@ -18,11 +18,14 @@ venv/
 # Node (if any)
 node_modules/
 
-# Data / outputs
-*.pt
-*.pth
-*.onnx
-*.ckpt
-*.log
+# Large model files / outputs
+weights/*.pth
+weights/*.pt
+weights/*.ckpt
+weights/*.onnx
 outputs/
 runs/
+
+# Images/results (optional - comment out if you WANT them in repo)
+# *.jpg
+# *.png
