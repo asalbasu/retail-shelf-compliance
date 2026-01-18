@@ -1,0 +1,13 @@
+{
+    "beverages_section": [
+      {"product": "Coca Cola Can", "quantity": 15},
+      {"product": "Pepsi Can", "quantity": 12},
+      {"product": "Red Bull", "quantity": 8}
+    ],
+    "snacks_section": [
+      {"product": "Lay's Chips", "quantity": 10},
+      {"product": "Doritos", "quantity": 10},
+      {"product": "Pringles", "quantity": 6}
+    ]
+  }
+  

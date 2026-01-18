@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# VSCode/Cursor
+.vscode/
+.cursor/
+
+# Node (if any)
+node_modules/
+
+# Data / outputs
+*.pt
+*.pth
+*.onnx
+*.ckpt
+*.log
+outputs/
+runs/

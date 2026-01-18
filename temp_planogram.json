@@ -1,0 +1,14 @@
+{
+  "category": "drinks",
+  "products": [
+    {"name": "coca cola", "count": 4},
+    {"name": "diet coke", "count": 2},
+    {"name": "coke zero", "count": 2},
+    {"name": "sprite", "count": 4},
+    {"name": "7up", "count": 3},
+    {"name": "pepsi", "count": 4},
+    {"name": "mountain dew", "count": 2},
+    {"name": "dr pepper", "count": 2},
+    {"name": "fanta", "count": 2}
+  ]
+}
